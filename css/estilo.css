@@ -17,17 +17,11 @@
     width: 50%;
   }
   
-  footer {
+  .footer {
       background-color: rgb(54, 54, 108);
       margin-top: 20px;
   }
-  
-  .navFooter a:hover {
-   border-radius: 10px;
-   cursor: pointer;
-   background-color: rgb(43, 43, 83);
-  }  
-  
+   
     .card-oradores:hover {
       transition: 1.3s ease;
       transform:scale(1.02);
